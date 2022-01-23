@@ -31,7 +31,7 @@ In this Project We worked with the modern OpenGL, where we it implements Various
 ![](Results/cook_torrence.png)
 
 #### Flat Shading Model
-![](Results/flatshading.png)
+![](Results/Flatshading.png)
 
 #### Phong Shading Model
 ![](Results/PhongShading.png)
